@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=shahidshabbir-se&project=opencode-anthropic-oauth&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # opencode-anthropic-oauth
 
 OpenCode plugin for Anthropic Claude Pro/Max OAuth login — no Claude Code needed.
